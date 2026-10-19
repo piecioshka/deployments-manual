@@ -69,6 +69,10 @@ Best suited for full-stack apps (backend + database), but it can serve static si
 
 Docs: <https://docs.railway.com/guides/cli>
 
+## Contributing 🤝
+
+See [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## License 📄
 
 [The MIT License](https://piecioshka.mit-license.org) @ 2026
